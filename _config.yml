@@ -2,9 +2,9 @@ theme: jekyll-theme-slate
 
 # Site
 title: 刘学馆
-subtitle:这里是subtitle
-description:这里是description
-keywords:刘学馆
-author: 智
+subtitle:
+description:
+keywords:
+author: 
 language:
 timezone:
