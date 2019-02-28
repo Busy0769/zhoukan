@@ -4,7 +4,8 @@
 
 同时会把静态网页更新到这里。    
 
-有兴趣的可以关注我的微信公众号：LowHotG  
+有兴趣的欢迎关注我的微信公众号：LowHotG  
+![公众号](./img/qrcode_for_LowHotG.jpg "公众号")
 
 ------------
 
@@ -27,3 +28,4 @@
 #### 联系方式
 联系QQ：56247228  
 微信公众号：LowHotG  
+![公众号](./img/qrcode_for_LowHotG.jpg "公众号")
