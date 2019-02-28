@@ -25,5 +25,5 @@
 [刘学馆](http://www.sexy0769.com/).
 
 #### 联系方式
-
-微信公众号：LowHotG
+联系QQ：56247228  
+微信公众号：LowHotG  
