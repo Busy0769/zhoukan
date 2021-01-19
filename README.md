@@ -18,7 +18,7 @@
 
 类型       | 标题
 ------------- | -------------
-内网穿透  | [自建FRP内网穿透，实现外网访问nas等设备](https://zhoukan.sexy0769.com/其他类/自建FRP内网穿透，实现外网访问nas等设备.html "自建FRP内网穿透，实现外网访问nas等设备")
+内网穿透  | [自建FRP内网穿透，实现外网访问nas等设备](https://zhoukan.sexy0769.com/其他类/frp实现nas内网穿透/自建FRP内网穿透，实现外网访问nas等设备.html "自建FRP内网穿透，实现外网访问nas等设备")
 
 
 <span id = "my2021"></span>
